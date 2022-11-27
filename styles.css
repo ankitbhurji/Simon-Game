@@ -1,0 +1,54 @@
+body{
+    background-color: gray;
+}
+
+.green{
+    height: 180px;
+    width: 180px;
+    background-color: green;
+    border-radius: 20px;
+    border: 10px solid black;
+}
+.green:active{
+    background-color: rgb(2, 73, 44);
+}
+
+.red{
+    height: 180px;
+    width: 180px;
+    background-color: red;
+    border-radius: 20px;
+    border: 10px solid black;
+}
+.red:active{
+    background-color: rgb(119, 48, 3);
+}
+
+.yellow{
+    height: 180px;
+    width: 180px;
+    background-color: yellow;
+    border-radius: 20px;
+    border: 10px solid black;
+}
+.yellow:active{
+    background-color: rgb(122, 128, 4);
+}
+
+.blue{
+    height: 180px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 20px;
+    border: 10px solid black;
+}
+.blue:active{
+    background-color: rgb(49, 2, 137);
+}
+
+#header{
+    color: red;
+    font-size: 30px;
+    font-weight: 1000;
+    font-style: calc();
+}
